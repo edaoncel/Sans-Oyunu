@@ -1,0 +1,17 @@
+C:\Users\eda öncel\Desktop\şans oyunu\obj\Debug\şans oyunu.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\şans oyunu\obj\Debug\şans oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\şans oyunu\obj\Debug\şans_oyunu.Form1.resources
+C:\Users\eda öncel\Desktop\şans oyunu\obj\Debug\şans_oyunu.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\şans oyunu\obj\Debug\şans oyunu.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\şans oyunu\obj\Debug\şans oyunu.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\görsel programlama\şans oyunu\obj\Debug\şans oyunu.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\görsel programlama\şans oyunu\obj\Debug\şans oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\görsel programlama\şans oyunu\obj\Debug\şans_oyunu.Form1.resources
+C:\Users\eda öncel\Desktop\görsel programlama\şans oyunu\obj\Debug\şans_oyunu.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\görsel programlama\şans oyunu\obj\Debug\şans oyunu.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\görsel programlama\şans oyunu\obj\Debug\şans oyunu.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\görsel programlama\şans oyunu\bin\Debug\şans oyunu.exe.config
+C:\Users\eda öncel\Desktop\görsel programlama\şans oyunu\bin\Debug\şans oyunu.exe
+C:\Users\eda öncel\Desktop\görsel programlama\şans oyunu\bin\Debug\şans oyunu.pdb
+C:\Users\eda öncel\Desktop\görsel programlama\şans oyunu\obj\Debug\şans oyunu.exe
+C:\Users\eda öncel\Desktop\görsel programlama\şans oyunu\obj\Debug\şans oyunu.pdb
